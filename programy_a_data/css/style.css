@@ -1,0 +1,68 @@
+body {
+    background: rgb(83, 158, 255);
+
+}
+
+h1 {
+    font-family: 'Sofia Sans', monospace;
+    text-align: center;
+    font-size: 33px;
+    font-weight: bold;
+} 
+article {
+    border: solid rgb(0, 0, 0);
+    margin: 2.5em;
+    padding: 1.5em;
+    width: auto;
+    
+} 
+div {
+    padding-bottom: 10px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: lighter;
+    font-size: 16.5px;
+}
+h2{
+    font-size: 23px;
+    font-family: 'Sofia Sans', monospace;
+    font-weight: 200px;
+} 
+
+footer {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 13px;
+} 
+
+h4 {
+    font-size: 30px;
+    font-family: 'Sofia Sans', monospace;
+    font-weight: bold;
+
+} 
+
+h5 {
+     text-align: center;
+     font-size: 20px;
+     font-family: 'Oswald', sans-serif;
+     background-color: rgb(255, 238, 0); width: 400px;
+     border: 5px solid rgb(0, 0, 0);  width: 400px;
+     padding: 15px;
+     margin-left: auto;
+     margin-right: auto;
+     
+     
+} 
+
+.link--underline {
+    text-decoration: none;
+} 
+
+a {
+    color: black;
+    transition: all 0.3s linear;
+} 
+
+a:hover {
+    color: blue;
+} 
+

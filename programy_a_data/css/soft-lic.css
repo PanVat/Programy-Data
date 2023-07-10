@@ -1,0 +1,26 @@
+h1 {
+    font-family: 'Sofia Sans', monospace;
+    text-align: center;
+    font-size: 33px;
+    font-weight: bold;
+
+
+} article {
+    border: solid rgb(0, 0, 0);
+    margin: 2.5em;
+    padding: 1.5em;
+    width: auto;
+    
+} h2{
+    font-size: 23px;
+    font-family: 'Sofia Sans', monospace;
+    font-weight: 200px;
+} div {
+    padding-bottom: 10px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: lighter;
+    font-size: 16.5px;
+}footer {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 13px;
+}
